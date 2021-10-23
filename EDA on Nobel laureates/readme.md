@@ -18,7 +18,7 @@ Dataset from kaggle.
 * Jupyter Notebook
 
 ## Run
-To run just download notebook and data from kaggle and run it either on google collab or locally on jupyter notebook.
+To run just download notebook and data(archive.csv) from repo and run it either on google collab or locally on jupyter notebook.
 
 ## Screenshots
 1. 
