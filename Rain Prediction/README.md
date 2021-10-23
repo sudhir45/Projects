@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Run](#run)
+* [Screenshots](#screenshots)
 
 ## General info
 Model redicts if there is chance of rain tomorrow.
