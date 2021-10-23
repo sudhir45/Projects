@@ -1,4 +1,4 @@
-# Rain Prediction
+# EDA on Nobel Laureates
 
 ## Table of contents
 * [General info](#general-info)
