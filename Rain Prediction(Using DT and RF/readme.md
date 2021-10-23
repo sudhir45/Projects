@@ -27,7 +27,7 @@ To run just download it and run it either on google collab or locally on jupyter
 
 ## Screenshots
 1.
-![](https://github.com/sudhir45/Projects/blob/34803bd7b7d760c5b90b2afe5ef5d8268149ec17/Rain%20Prediction(Using%20DT%20and%20RF/Images/DStreee.png)
+![](https://github.com/sudhir45/Projects/blob/3cd56eb73d7fc733488082ba9830dbc3a694db75/Rain%20Prediction/Images/DStreee.png)
 
 2.
-![](https://github.com/sudhir45/Projects/blob/34803bd7b7d760c5b90b2afe5ef5d8268149ec17/Rain%20Prediction(Using%20DT%20and%20RF/Images/featureImportance.png)
+![](https://github.com/sudhir45/Projects/blob/3cd56eb73d7fc733488082ba9830dbc3a694db75/Rain%20Prediction/Images/featureImportance.png)
