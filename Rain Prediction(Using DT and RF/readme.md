@@ -1,4 +1,4 @@
-# Rain Prediction
+# Rain Prediction(ST & RF)
 
 ## Table of contents
 * [General info](#general-info)
