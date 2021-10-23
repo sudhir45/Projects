@@ -1,4 +1,4 @@
-# Rain Prediction
+# House Prices Prediction
 
 ## Table of contents
 * [General info](#general-info)
