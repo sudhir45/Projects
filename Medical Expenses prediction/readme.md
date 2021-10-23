@@ -1,4 +1,4 @@
-# Rain Prediction
+# Medical Expenses Prediction
 
 ## Table of contents
 * [General info](#general-info)
